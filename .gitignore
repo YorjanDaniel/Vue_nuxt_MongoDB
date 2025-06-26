@@ -1,0 +1,9 @@
+# Ignorar node_modules y otras carpetas innecesarias
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+*.local
+*.lock
+output/
