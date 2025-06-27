@@ -1,3 +1,1 @@
 
-#isntalar 
-npm i 
